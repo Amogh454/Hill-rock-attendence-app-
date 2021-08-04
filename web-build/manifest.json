@@ -1,0 +1,16 @@
+{
+  "description": "In this App You can ensure your presence in your class or any meetings virtually",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Attendence App",
+  "short_name": "Attendence App",
+  "start_url": "/?utm_source=web_app_manifest",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=true",
+      "id": true
+    }
+  ],
+  "prefer_related_applications": true
+}
