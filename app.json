@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Attendence App",
+    "description": "In this App You can ensure your presence in your class or any meetings virtually",
+  
+    "ios": {
+      "supportsTablet": true
+    },
+    
+    "android": {
+      "package": true
+    }
+  }
+}
